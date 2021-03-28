@@ -1,0 +1,24 @@
+h1{
+    color: #4169e1 ;
+}
+.header{
+    background-color: #f08080;
+    display:flex;
+    justify-content:space-between;
+}
+.grid{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content:space-evenly;
+}
+.footer{
+    display:flex;
+    justify-content:flex-end;
+}
+p,h2{
+    text-align: center;
+    color: #32cd32;
+}
+body{
+    background-color: #808080;
+}
